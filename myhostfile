@@ -1,4 +1,10 @@
 # EXTRA DNS
+0.0.0.0 login.live.com
+0.0.0.0 ctldl.windowsupdate.com
+0.0.0.0 storeedgefd.dsx.mp.microsoft.com
+0.0.0.0 fd.api.iris.microsoft.com
+0.0.0.0 api.msn.com
+0.0.0.0 www.bing.com
 0.0.0.0 googleusercontent.com
 0.0.0.0 slscr.update.microsoft.com
 0.0.0.0 sls.update.microsoft.com
