@@ -700,3 +700,8 @@
 0.0.0.0 svchost.exe
 0.0.0.0 ord38s30-in-f4.1e100.net
 0.0.0.0 1e100.net
+# MOZILLA AUTO UPDATES
+0.0.0.0 aus5.mozilla.org
+# 0.0.0.0 download.mozilla.org
+# 0.0.0.0 ftp.mozilla.org
+# 0.0.0.0 www.mozilla.org
