@@ -705,3 +705,14 @@
 # 0.0.0.0 download.mozilla.org
 # 0.0.0.0 ftp.mozilla.org
 # 0.0.0.0 www.mozilla.org
+# Blocks Motorola update engine
+0.0.0.0 motorola.com
+0.0.0.0 custhelp.com
+0.0.0.0 motorola.com
+0.0.0.0 motorola.com
+0.0.0.0 moto-cds.appspot.com
+0.0.0.0 moto-cd.appspot.com
+0.0.0.0 moto-cds-qa.appspot.com
+0.0.0.0 moto-cds-staging.appspot.com
+0.0.0.0 moto-cds-dev.appspot.com
+0.0.0.0 moto-cds.svcmot.cn
