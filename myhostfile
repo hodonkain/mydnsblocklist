@@ -716,3 +716,12 @@
 0.0.0.0 moto-cds-staging.appspot.com
 0.0.0.0 moto-cds-dev.appspot.com
 0.0.0.0 moto-cds.svcmot.cn
+# Windows Update Blocks
+0.0.0.0 windowsupdate.microsoft.com
+0.0.0.0 update.microsoft.com
+0.0.0.0 windowsupdate.com
+0.0.0.0 msupdate.microsoft.com
+0.0.0.0 download.microsoft.com
+# Copilot & AI Telemetry Blocks
+0.0.0.0 copilot.microsoft.com
+0.0.0.0 bing.com
