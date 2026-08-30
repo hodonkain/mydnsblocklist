@@ -1,3 +1,21 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+# For example:
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
 # EXTRA DNS
 0.0.0.0 login.live.com
 0.0.0.0 ctldl.windowsupdate.com
@@ -708,8 +726,6 @@
 # Blocks Motorola update engine
 0.0.0.0 motorola.com
 0.0.0.0 custhelp.com
-0.0.0.0 motorola.com
-0.0.0.0 motorola.com
 0.0.0.0 moto-cds.appspot.com
 0.0.0.0 moto-cd.appspot.com
 0.0.0.0 moto-cds-qa.appspot.com
@@ -725,3 +741,11 @@
 # Copilot & AI Telemetry Blocks
 0.0.0.0 copilot.microsoft.com
 0.0.0.0 bing.com
+# MISC
+0.0.0.0 a23-220-246-179.deploy.static.akamaitechnologies.com
+0.0.0.0 akamaitechnologies.com
+0.0.0.0 server-18-154-185-43.ord58.r.cloudfront.net
+0.0.0.0 cloudfront.net
+0.0.0.0 93.243.107.34.bc.googleusercontent.com
+0.0.0.0 nflxvideo.net
+0.0.0.0 d3svkincypo2km.cloudfront.net
