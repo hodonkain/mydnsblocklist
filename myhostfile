@@ -776,4 +776,11 @@
 0.0.0.0 ss-telemetry.servicebus.windows.net
 0.0.0.0 wayfinderanalytics.servicebus.windows.net
 
+#Qt Cpp telemetry
+0.0.0.0 telemetry.qt.io
+0.0.0.0 analytics.qt.io
+0.0.0.0 stats.qt.io
+:: telemetry.qt.io
+:: analytics.qt.io
+:: stats.qt.io
 
