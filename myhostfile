@@ -780,7 +780,20 @@
 0.0.0.0 telemetry.qt.io
 0.0.0.0 analytics.qt.io
 0.0.0.0 stats.qt.io
-:: telemetry.qt.io
-:: analytics.qt.io
-:: stats.qt.io
+0.0.0.0 telemetry.qt.io
+0.0.0.0 analytics.qt.io
+0.0.0.0 stats.qt.io
 
+# Dangerous Sites
+0.0.0.0 cloudrecycled.com
+0.0.0.0 smilesofboca.com
+0.0.0.0 figmauidesign.com
+0.0.0.0 ci0udfiare-challenge.com
+
+# Block Discord Telemetry and Analytics
+0.0.0.0 discordapp.com
+0.0.0.0 telemetry.discord.gg
+0.0.0.0 telemetry.discordapp.net
+0.0.0.0 science.discord.gg
+0.0.0.0 science.discordapp.net
+0.0.0.0 tracing.discord.co
