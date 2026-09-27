@@ -13,11 +13,12 @@
 #       38.25.63.10     x.acme.com              # x client host
 
 # localhost name resolution is handled within DNS itself.
+# Adguard DNS 94.140.14.14  & 94.140.15.15 in main tcp/ip 4 helps as well
 
 #127.0.0.1       localhost
 #::1             localhost
 
-# updated 2026-09-01
+# updated 2026-09-26
 
 # BLOCK WIN 10 UPDATES
 0.0.0.0 windowsupdate.microsoft.com
